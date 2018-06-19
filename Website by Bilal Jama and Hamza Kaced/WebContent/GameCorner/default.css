@@ -1,0 +1,62 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+p#Go{
+    padding-bottom: 50px;
+}
+body{ 
+    font-family: 'Rubik', sans-serif;
+    -webkit-background-size: cover;
+    background-image: url("test.png");
+    background-size: 100% 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+
+   
+
+}
+div#block {
+    font-size: 15px;
+}
+
+ div#test { display: inline-block; }
+ li { text-align: left; 
+ list-style-type: none;}
+
+ul#menu{
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+
+
+}
+ul#menu li {
+float: left;
+font-family: 'Roboto Slab', serif;
+
+}
+div#block{
+ font-family: 'Roboto Slab', serif;
+ font-size: 20px;
+}
+ul#menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul#menu li a:hover {
+    background-color: #111;
+}
+ul#pictures li{
+display:inline;
+ list-style-type:none;
+
+}
+
+}
