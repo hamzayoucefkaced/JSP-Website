@@ -1,4 +1,4 @@
-package JSPWebsite;
+package JavaFiles;
 
 public class Product{
 public String title;
