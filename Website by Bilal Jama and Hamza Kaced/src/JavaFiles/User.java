@@ -1,4 +1,4 @@
-package JSPWebsite;
+package JavaFiles;
 
 import java.util.LinkedList;
 
