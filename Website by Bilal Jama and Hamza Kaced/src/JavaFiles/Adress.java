@@ -1,4 +1,4 @@
-package lelllllll;
+package JSPWebsite;
 
 public class Adress {
 	private String adress;
