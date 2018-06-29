@@ -1,4 +1,4 @@
-package lelllllll;
+package JSPWebsite;
 
 public class Product{
 public String title;
